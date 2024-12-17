@@ -68,7 +68,7 @@ const page = () => {
               </label>
             </div>
           </div>    
-          <div className="font-normal pb-6 text-[12px] leading-[16px] w-[90%] sm:w-[80%] ml-[6px] text-[#8D8D8D]">By creating an account, you agree to Nike's <span className="underline cursor-pointer">Privacy Policy</span> and <span className="underline cursor-pointer">Terms of Use.</span></div>
+          <div className="font-normal pb-6 text-[12px] leading-[16px] w-[90%] sm:w-[80%] ml-[6px] text-[#8D8D8D]">By creating an account, you agree to Nike&apos;s <span className="underline cursor-pointer">Privacy Policy</span> and <span className="underline cursor-pointer">Terms of Use.</span></div>
           <button className="w-[100%] h-[40px] rounded-[3px] bg-[#000000] text-[#FFFFFF] hover:bg-[#212121] active:bg-[#323232] transition ease-in-out">JOIN US</button>
           <div className="font-normal text-[12px] leading-[14px] w-[90%] sm:w-[80%] ml-[6px] text-[#8D8D8D]">Already a Member? <span className="underline font-medium cursor-pointer text-[#111111]">Sign In.</span></div>
         </div>

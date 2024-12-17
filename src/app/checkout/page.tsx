@@ -12,7 +12,7 @@ export default function Home() {
           <div>
             <h2 className="text-xl font-semibold mb-4">How would you like to get your order?</h2>
             <p className="text-gray-600 text-sm mb-6">
-              Customs regulation for India requires a copy of the recipient's <br />
+              Customs regulation for India requires a copy of the recipient&apos;s <br />
               KYC. The address on the KYC needs to match the shipping <br />address.
               Our courier will contact you via SMS/email to obtain <br /> a copy of
               your KYC. The KYC will be stored securely and <br />used solely for the
@@ -99,7 +99,7 @@ export default function Home() {
               </div>
 
               <div>
-                <h3 className="mt-10 font-bold text-2xl">What's your contact information?</h3>
+                <h3 className="mt-10 font-bold text-2xl">What&apos;s your contact information?</h3>
               </div>
 
               <div>
@@ -118,7 +118,7 @@ export default function Home() {
                 />
               </div>
 
-              <h3 className="mt-10 font-bold text-2xl">What's your PAN?</h3>
+              <h3 className="mt-10 font-bold text-2xl">What&apos;s your PAN?</h3>
 
               <div>
                 <input
@@ -189,7 +189,7 @@ export default function Home() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
                   <Image src={g1} alt="g1" className="w-full" />
                   <div>
-                    <p className="text-xl font-medium">Nike Dri-FIT ADV TechKnit Ultra g1's Short-Sleeve Running Top</p>
+                    <p className="text-xl font-medium">Nike Dri-FIT ADV TechKnit Ultra g1&apos;s Short-Sleeve Running Top</p>
                     <p className="text-xs text-gray-600">Qty: 1,<br /> Size: L</p>
                     <span className="font-semibold">₹ 3,895.00</span>
                   </div>
@@ -201,7 +201,7 @@ export default function Home() {
                   <Image src={p3} alt="p3" className="w-full" />
                 </div>
                 <div className="mr-16">
-                  <p className="text-xl font-medium">Nike Air Max 97 SE g1's Shoes</p>
+                  <p className="text-xl font-medium">Nike Air Max 97 SE g1&apos;s Shoes</p>
                   <p className="text-xs text-gray-600">Qty: 1, Size: UK 8</p>
                   <span className="font-semibold">₹ 16,995.00</span>
                 </div>

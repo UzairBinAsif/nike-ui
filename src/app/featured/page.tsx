@@ -24,7 +24,7 @@ export default function page() {
           <div>
             <h1 className="text-2xl sm:text-3xl font-bold text-gray-800">Nike Air Force 1 PLT.AF.ORM</h1>
             <p className="text-gray-600 mt-4 leading-relaxed">
-              Turn style on its head with this crafted take on the Air Jordan Mid. Its "inside-out"-inspired
+              Turn style on its head with this crafted take on the Air Jordan Mid. Its &apos;inside-out&apos;-inspired
               construction, including unique layering and exposed foam accents, ups the ante on this timeless
               Jordan Brand silhouette. Details like the deco stitching on the Swoosh add coveted appeal, while 
               unexpected shading, a rich mixture of materials, and an aged midsole aesthetic give this release an 

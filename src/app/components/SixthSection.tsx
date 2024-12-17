@@ -9,20 +9,20 @@ const SixthSection = () => {
     <div className='flex flex-col mt-[3vh] items-center w-screen h-fit'>
         <div className='w-[90vw]'>        
             <div className="flex text-[#111111] items-center justify-start font-medium text-[18px] sm:text-[23px] leading-[28px] h-[10%]">
-            <span>Don't Miss</span>
+            <span>Don&apos;t Miss</span>
         </div>
         <div className='grid gap-2 justify-items-center grid-cols-2 md:grid-cols-3'>
             <div className='my-4 w-[100%]'>
               <Image src={e1} alt='image'/>
-            <button className=' bg-[#FFFFFF] py-[5px] md:py-[5px] px-3 md:px-4 rounded-full active:bg-[#dddddd] -translate-y-14 translate-x-5'>Men's</button>
+            <button className=' bg-[#FFFFFF] py-[5px] md:py-[5px] px-3 md:px-4 rounded-full active:bg-[#dddddd] -translate-y-14 translate-x-5'>Men&apos;s</button>
             </div>
             <div className='my-4 w-[100%]'>
               <Image src={e2} alt='image'/>
-              <button className=' bg-[#FFFFFF] py-[5px] md:py-[5px] px-3 md:px-4 rounded-full active:bg-[#dddddd] -translate-y-14 translate-x-5'>Women's</button>
+              <button className=' bg-[#FFFFFF] py-[5px] md:py-[5px] px-3 md:px-4 rounded-full active:bg-[#dddddd] -translate-y-14 translate-x-5'>Women&apos;s</button>
               </div>
             <div className='my-4 w-[100%]'>
               <Image src={e3} alt='image'/>
-              <button className=' bg-[#FFFFFF] py-[5px] md:py-[5px] px-3 md:px-4 rounded-full active:bg-[#dddddd] -translate-y-14 translate-x-5'>Kids's</button>
+              <button className=' bg-[#FFFFFF] py-[5px] md:py-[5px] px-3 md:px-4 rounded-full active:bg-[#dddddd] -translate-y-14 translate-x-5'>Kids&apos;s</button>
               </div>
         </div>
         </div>
@@ -55,12 +55,12 @@ const SixthSection = () => {
                 </div>
               </div>
               <div>
-                <div className='cursor-pointer hover:underline text-center active:opacity-50 text-[#111111] font-medium my-[2vh]'>Kids'</div>
+                <div className='cursor-pointer hover:underline text-center active:opacity-50 text-[#111111] font-medium my-[2vh]'>Kids&apos;</div>
                 <div className='text-center'>
                   <div className='cursor-pointer hover:underline active:opacity-50'>Infant & Toddler Shoes</div>
-                  <div className='cursor-pointer hover:underline active:opacity-50'>Kids' Shoes</div>
-                  <div className='cursor-pointer hover:underline active:opacity-50'>Kids' Jordan Shoes</div>
-                  <div className='cursor-pointer hover:underline active:opacity-50'>Kids' Basketball Shoes</div>
+                  <div className='cursor-pointer hover:underline active:opacity-50'>Kids&apos; Shoes</div>
+                  <div className='cursor-pointer hover:underline active:opacity-50'>Kids&apos; Jordan Shoes</div>
+                  <div className='cursor-pointer hover:underline active:opacity-50'>Kids&apos; Basketball Shoes</div>
                 </div>
               </div>
             </div>

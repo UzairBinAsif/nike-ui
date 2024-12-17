@@ -40,7 +40,7 @@ const page = () => {
             <p>Apple Pay</p>
           </div>
           <p className=' text-base sm:text-lg md:text-xl'>
-            Nike Members can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member, join us today.
+            Nike Members can store multiple debit or credit cards in their profile for faster checkout. If you&apos;re not already a Member, join us today.
           </p>
 
           <div className='flex gap-3 mt-4'>
@@ -65,8 +65,8 @@ const page = () => {
               <p>You can use any accepted credit card to pay for your SNKRS order.</p>
             </div>
             <div className='mt-4'>
-              <h3 className='font-semibold text-lg sm:text-xl'>Why don't I see Apple Pay as an option?</h3>
-              <p>To see Apple Pay as an option in the Nike App or on Nike.com, you'll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you'll need to use Safari to use Apple Pay on Nike.com.</p>
+              <h3 className='font-semibold text-lg sm:text-xl'>Why don&apos;t I see Apple Pay as an option?</h3>
+              <p>To see Apple Pay as an option in the Nike App or on Nike.com, you&apos;ll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you&apos;ll need to use Safari to use Apple Pay on Nike.com.</p>
             </div>
           </div>
 
@@ -83,8 +83,8 @@ const page = () => {
           {/* Related Links */}
           <div className='flex flex-col gap-3 mt-8'>
             <h1 className='text-gray-400 text-lg sm:text-xl'>RELATED</h1>
-            <Link href={'/help'} className='underline text-base sm:text-lg'>WHAT ARE NIKE'S DELIVERY OPTIONS?</Link>
-            <Link href={'/help'} className='underline  text-base sm:text-lg mb-5'>HOW DO I GET FREE DELIVERY ON NIKE ORDERS?</Link>
+            <Link href={'/help'} className='underline text-base sm:text-lg'>WHAT ARE NIKE&apos;S DELIVERY OPTIONS?</Link>
+            <Link href={'help'} className='underline  text-base sm:text-lg mb-5'>HOW DO I GET FREE DELIVERY ON NIKE ORDERS?</Link>
           </div>
         </div>
 
@@ -107,7 +107,7 @@ const page = () => {
 
             <div className='flex flex-col items-center'>
               <MdEmail className='w-20 h-20 mb-2' />
-              <p>We'll reply within</p>
+              <p>We&apos;ll reply within</p>
               <p>five business days</p>
             </div>
 

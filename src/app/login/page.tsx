@@ -40,7 +40,7 @@ const page = () => {
               Forgotten your password?
             </div>
           </div>
-          <div className="font-normal pb-6 text-[12px] leading-[16px] w-[90%] sm:w-[80%] ml-[6px] text-[#8D8D8D]">By logging in, you agree to Nike's <span className="underline">Privacy Policy</span> and Terms of Use.</div>
+          <div className="font-normal pb-6 text-[12px] leading-[16px] w-[90%] sm:w-[80%] ml-[6px] text-[#8D8D8D]">By logging in, you agree to Nike&apos;s <span className="underline">Privacy Policy</span> and Terms of Use.</div>
           <button className="w-[100%] h-[40px] rounded-[3px] bg-[#000000] text-[#FFFFFF]">Sign In</button>
           <div className="font-normal text-[12px] leading-[14px] w-[90%] sm:w-[80%] ml-[6px] text-[#8D8D8D]">Not a Member? <span className="underline font-medium cursor-pointer text-[#111111]">Join Us.</span></div>
         </div>

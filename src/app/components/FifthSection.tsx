@@ -8,7 +8,7 @@ const FifthSection = () => {
     <div className='flex flex-col mt-[3vh] items-center w-screen'>
         <div className='w-[90vw]'>        
             <div className="flex text-[#111111] items-center justify-start font-medium text-[18px] sm:text-[19px] leading-[28px] h-[10%]">
-            <span>Don't Miss</span>
+            <span>Don&apos;t Miss</span>
         </div>
             <div className='my-4'><Image src={img} alt='image'/></div>
         </div>

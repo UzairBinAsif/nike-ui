@@ -46,7 +46,7 @@ export default function Cart() {
                   </p>
                 </div>
                 <div className="mt-3 font-[400] text-[16px] text-[#757575] w-fit md:font-[400] md:text-[14px] md:mt-0 md:text-[#757575] md:w-fit">
-                  <p className="mt-1 md:mt-1">g1's Short-Sleeve Running Top</p>
+                  <p className="mt-1 md:mt-1">g1&apos;s Short-Sleeve Running Top</p>
                   <p className="mt-1 md:mt-1">Ashen Slate/Cobalt Bliss</p>
                   <div className="mt-3 flex justify-between md:mt-2 md:flex md:justify-between">
                     <div className="flex gap-2 md:flex md:gap-2">
@@ -97,8 +97,8 @@ export default function Cart() {
                   </p>
                 </div>
                 <div className="mt-3 font-[400] text-[16px] text-[#757575] w-fit md:font-[400] md:text-[14px] md:mt-0 md:text-[#757575] md:w-fit">
-                  <p className="mt-1 md:mt-1">g1's p3s</p>
-                  <p className="mt-1 md:mt-1">g1's Pewter/Light Bone/Black/White</p>
+                  <p className="mt-1 md:mt-1">g1&apos;s p3s</p>
+                  <p className="mt-1 md:mt-1">g1&apos;s Pewter/Light Bone/Black/White</p>
                   <div className="mt-3 flex justify-between md:mt-2 md:flex md:justify-between">
                     <div className="flex gap-2 md:flex md:gap-2">
                       <p>Size</p>
