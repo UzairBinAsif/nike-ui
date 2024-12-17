@@ -19,7 +19,7 @@ const FourthSection = () => {
           <Link href={'/p4'}>
             <GearUpProduct 
             img={g1}
-            name="Nike Dri-FIT ADV TechKnit Ultra"
+            named="Nike Dri-FIT ADV TechKnit Ultra"
             price="₹ 3 895"
             category="Men's Short-Sleeve Running Top"
             />
@@ -27,7 +27,7 @@ const FourthSection = () => {
           <Link href={'/p5'}>
             <GearUpProduct 
             img={g2}
-            name="Nike Dri-FIT Challenger"
+            named="Nike Dri-FIT Challenger"
             price="₹ 2 495"
             category="Men's 18cm (approx.) 2-in-1 Versatile Shorts"
             />
@@ -35,7 +35,7 @@ const FourthSection = () => {
           <Link href={'/p6'}>
             <GearUpProduct 
             img={g3}
-            name="Nike Dri-FIT ADV Run Division"
+            named="Nike Dri-FIT ADV Run Division"
             price="₹ 5 295"
             category="Women's Long-Sleeve Running Top"
             />
@@ -43,7 +43,7 @@ const FourthSection = () => {
           <Link href={'/p7'}>
             <GearUpProduct 
             img={g4}
-            name="Nike Fast"
+            named="Nike Fast"
             price="₹ 3 795"
             category="Women's Mid-Rise 7/8 Running Leggings with Pockets"
             />

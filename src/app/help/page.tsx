@@ -58,7 +58,7 @@ const page = () => {
             </div>
             <div className='mt-4'>
               <h3 className='font-semibold text-lg sm:text-xl'>Can I pay for my order with multiple methods?</h3>
-              <p>No, payment for Nike orders can't be split between multiple payment methods.</p>
+              <p>No, payment for Nike orders can&apos;t be split between multiple payment methods.</p>
             </div>
             <div className='mt-4'>
               <h3 className='font-semibold text-lg sm:text-xl'>What payment method is accepted for SNKRS orders?</h3>

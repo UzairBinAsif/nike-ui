@@ -1,6 +1,12 @@
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
+interface Prop {
+  img: StaticImageData,
+  named: string,
+  price: string,
+  category: string,
+}
 
-const HeroProduct = (props: any) => {
+const HeroProduct = (props: Prop) => {
   return (
     <div className={` my-2 md:w-[20vw] h-fit`}>
       <div>
@@ -8,7 +14,7 @@ const HeroProduct = (props: any) => {
       </div>
       <div className="flex mt-3 flex-col font-medium items-center text-[15px]">
         <div className="flex justify-between w-[95%]">
-          <div className="w-[75%] md:w-[70%] font-medium text-[15px] sm:truncate md:text-[12px] leading-[24px]">{props.name}</div>
+          <div className="w-[75%] md:w-[70%] font-medium text-[15px] sm:truncate md:text-[12px] leading-[24px]">{props.named}</div>
           <div className="font-medium text-[15px] min-w-fit sm:text-[12px] leading-[24px]">{props.price}</div>
         </div>
         <div className="mt-3 w-[100%]">

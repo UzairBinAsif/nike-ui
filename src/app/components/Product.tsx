@@ -1,8 +1,14 @@
 import React from 'react'
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 import { PiShoppingCartLight } from "react-icons/pi";
+interface Prop {
+  img: StaticImageData,
+  heading: string,
+  content: string,
+  price: string,
+}
 
-const Product = (props: any) => {
+const Product = (props: Prop) => {
   return (
     <div className="min-h-screen flex justify-center items-center px-4 py-8 sm:px-8 lg:px-16">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl w-full rounded-lg overflow-hidden">
