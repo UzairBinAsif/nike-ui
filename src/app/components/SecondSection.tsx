@@ -26,14 +26,14 @@ export default function SecondSection() {
         <div className="grid gap-3 justify-items-center grid-cols-2 md:grid-cols-3">
           <Link href={'/air-max-women'}><HeroProduct
             img={p1}
-            name="Nike Air Max Pulse"
+            named="Nike Air Max Pulse"
             price="₹ 13 995"
             category="Women's Shoes"
           /></Link>
           <Link href={'/air-max'}>
             <HeroProduct
               img={p2}
-              name="Nike Air Max Pulse"
+              named="Nike Air Max Pulse"
               price="₹ 13 995"
               category="Men's Shoes"
             />
@@ -41,7 +41,7 @@ export default function SecondSection() {
             <Link href={'/p3'}>
           <HeroProduct
             img={p3}
-            name="Nike Air Max 97 SE"
+            named="Nike Air Max 97 SE"
             price="₹ 16 995"
             category="Men's Shoes"
             />

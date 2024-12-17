@@ -36,7 +36,7 @@ const page = () => {
           </p>
           <div className=' text-base sm:text-lg md:text-xl'>
             <p>Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro</p>
-            <p>If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.</p>
+            <p>If you enter your PAN information at checkout, you&apos;ll be able to pay for your order with PayTM or a local credit or debit card.</p>
             <p>Apple Pay</p>
           </div>
           <p className=' text-base sm:text-lg md:text-xl'>
